@@ -1,4 +1,3 @@
 # prueba2
 mapa
-https://gdr23betanzos.github.io/pueba2/
-
+https://gdr23betanzos.github.io/prueba2/
