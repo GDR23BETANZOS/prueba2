@@ -1,2 +1,4 @@
 # prueba2
-gdr23betanzos.github.io
+mapa
+https://gdr23betanzos.github.io/pueba2/
+
